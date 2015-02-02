@@ -1,2 +1,4 @@
 # Matlab-Fall-2013
-Adelphi University Matlab Class Fall 2013 Files
+Adelphi University
+Applied Problem Solving in Matlab
+Fall 2013
